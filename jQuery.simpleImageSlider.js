@@ -1,6 +1,6 @@
 (function ($) {
     "use strict";
-    $.fn.simpleImageSlider(options) {
+    $.fn.simpleImageSlider = function(options) {
         options = $.extend(true, {
             imageDir: './img/',
             delayInSeconds: 5,
@@ -17,5 +17,5 @@
             };
             setInterval(nextImage, options.delayInSeconds * 1000);
         });
-    }
+    };
 })(jQuery);
