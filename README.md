@@ -12,6 +12,8 @@ Usage:
      delayInSeconds: 5
    });
 ```
-Demo:
+
+Links:
 =========================
- + [CodePen](http://cdpn.io/piDzn)
+ + [CodePen Demo](http://cdpn.io/piDzn)
+ + [Blog](http://blog.doersguild.com/post/56767573315/jquery-quick-and-dirty-image-auto-slider)
